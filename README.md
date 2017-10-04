@@ -1,0 +1,2 @@
+# AlkFejlProj
+Alkalmazások fejlesztése ELTE
